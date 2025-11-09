@@ -1,0 +1,3 @@
+# Copy to .env and set API_KEY
+API_KEY=debug-key
+PORT=8000
